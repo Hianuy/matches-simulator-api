@@ -33,4 +33,23 @@
             "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
         }
     }
+  ,
+  {
+    "descricao": "Eliminatorias da Copa 2022",
+        "local": {
+            "nome": "La Bombonera ,
+            "imagem": "TODO"
+        },
+        "mandante": {
+            "nome": "Uruguai",
+            "forca": 4,
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+        },
+        "visitante": {
+            "nome": "Argentina",
+            "forca": 5,
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+        }
+    }
+
 ]
