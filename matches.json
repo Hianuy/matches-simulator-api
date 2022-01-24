@@ -3,7 +3,7 @@
     "descricao": "Eliminatorias da Copa 2022",
     "local": {
       "nome" : "Maracana",
-      "imagem" : "TODO"
+      "imagem" : "https://www.rbsdirect.com.br/filestore/0/3/1/1/0/1/1_26face76e922457/1101130_c309139c83b56ef.jpg?w=700"
   },
    "mandante" : {
      "nome" : "Brasil",
@@ -19,8 +19,8 @@
   {
     "descricao": "Eliminatorias da Copa 2022",
         "local": {
-            "nome": "Estadio centenario",
-            "imagem": "TODO"
+            "nome": "Estadio Centenario",
+            "imagem": "https://www.lance.com.br/files/article_main/uploads/2021/11/26/61a144d25523b.jpeg"
         },
         "mandante": {
             "nome": "Uruguai",
@@ -38,7 +38,7 @@
     "descricao": "Eliminatorias da Copa 2022",
         "local": {
             "nome": "La Bombonera" ,
-            "imagem": "TODO"
+            "imagem": "https://conteudo.imguol.com.br/c/esporte/24/2019/11/07/projeto-esloveno-quer-ampliar-capacidade-de-la-bombonera-1573154459278_v2_4x3.jpg"
         },
         "mandante": {
             "nome": "Uruguai",
